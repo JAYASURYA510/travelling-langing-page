@@ -1,4 +1,4 @@
-###travelling-langing-page
+# travelling-langing-page
 
 ![Screenshot 2023-08-11 002741](https://github.com/JAYASURYA510/travelling-langing-page/assets/133185043/fc5cac5d-4d4a-4350-8b7a-9a0c5a1590c5)
 ![Screenshot 2023-08-11 002823](https://github.com/JAYASURYA510/travelling-langing-page/assets/133185043/986b7a83-f99a-473a-9d9e-edf03107460c)
